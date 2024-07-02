@@ -1,1 +1,2 @@
-# CODTECH-TASK2
+NAME:SHAIK MOHAMMED RAMEEZ COMPANY: CODETECH IT SOLUTIONS ID : CT8PP1316 Domain: PYTHON PROGRAMMING Duration: 20Th JUNE 2024 TO 20TH AUGUST 2024 Mentor: Muzammil OVERVIEW OF THE PROJECT PROJECT: STUDENT GRADE TRACKER OBJECTIVE: The objective of this project is to analyse the student grades for a different subjects details its a user inputs like name of the student, subject name ,marks the finally its calculate the overall grade for each subject ,letter_grade and total gpa for one student KEY ACTIVITIES: 1)obtain the total grade for student 2) obtain total gpa for a student TECHNOLOGIES USED: Python 
+![Screenshot (15)](https://github.com/ShaikMohammedRameez/CODTECH-TASK2/assets/174429783/715832ae-c770-4ac7-8123-0f402ce8f4d3)
